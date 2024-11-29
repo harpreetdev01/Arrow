@@ -1,0 +1,4 @@
+C:\Computer_Programing\3DDev\Opengl\Arrow\x64\Debug\Arrow.exe
+C:\Computer_Programing\3DDev\Opengl\Arrow\x64\Debug\glew32d.dll
+C:\Computer_Programing\3DDev\Opengl\Arrow\x64\Debug\glfw3.dll
+C:\Computer_Programing\3DDev\Opengl\Arrow\x64\Debug\Arrow.vcxproj.CopyComplete

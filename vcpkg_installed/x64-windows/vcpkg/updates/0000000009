@@ -1,0 +1,9 @@
+Package: opengl-registry
+Version: 2022-09-29
+Port-Version: 1
+Depends: egl-registry
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 0b5159d4741eba185ef46d8b2d0fdf0b72059cf307cd8d368048362985054db2
+Description: the API and Extension registries for the OpenGL family APIs
+Status: install ok installed
